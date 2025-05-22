@@ -6,7 +6,7 @@ import logoimg from "./assests/chennai-cit-logo.svg";
 const Footer = () => {
     
   return (
-    <div className='container-fluid bg-dark p-40 text-white'>
+    <div className='container-fluid bg-dark p-50 text-white'>
       <div className='row'>
         <div className='col-12 col-lg-3'>
           <img src={logoimg} alt=""/>
